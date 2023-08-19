@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color: fuchsia;
+}
+h3{
+    color: darkorchid;
+}
+p{
+   color: orange;
+}
+a{
+    color: deepskyblue;
+}
+ol{
+    color: aqua;
+}
+.paragraf{
+    color: yellow;
+}
+.Ilekebanana{
+    color: mediumpurple;
+}
+.Link{
+    color: white;
+    text-decoration: none
+}
+.foto{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 700px;
+    height: 400px;
+}
+.list{
+    color: plum;
+}
+.backstory{
+    color: gold;
+}
+.beckstage{
+    color: lightgreen;
+}
